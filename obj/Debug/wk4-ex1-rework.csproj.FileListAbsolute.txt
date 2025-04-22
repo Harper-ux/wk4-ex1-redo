@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\wk4-ex1-rework\wk4-ex1-rework\bin\Debug\wk4-ex1-rework.exe.config
+C:\Users\User\source\repos\wk4-ex1-rework\wk4-ex1-rework\bin\Debug\wk4-ex1-rework.exe
+C:\Users\User\source\repos\wk4-ex1-rework\wk4-ex1-rework\bin\Debug\wk4-ex1-rework.pdb
+C:\Users\User\source\repos\wk4-ex1-rework\wk4-ex1-rework\obj\Debug\wk4-ex1-rework.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\wk4-ex1-rework\wk4-ex1-rework\obj\Debug\wk4-ex1-rework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wk4-ex1-rework\wk4-ex1-rework\obj\Debug\wk4-ex1-rework.exe
+C:\Users\User\source\repos\wk4-ex1-rework\wk4-ex1-rework\obj\Debug\wk4-ex1-rework.pdb
